@@ -108,5 +108,4 @@ InitTestScene*.unity*
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
-# myignore
-Assets/00_WIP*
+
